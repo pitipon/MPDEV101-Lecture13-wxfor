@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<block wx:for="{{chats}}">
+    <view class="section">
+      <text class="name"> {{item.name}} </text>
+      <text class="msgbox"> {{item.message}}</text>
+    </view>
+</block>

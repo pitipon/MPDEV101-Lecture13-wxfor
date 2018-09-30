@@ -1,0 +1,16 @@
+/**index.wxss**/
+
+.section {
+  margin-top: 50rpx;
+}
+
+.name {
+  padding-left: 20rpx;
+}
+
+.msgbox {
+  margin: 10rpx;
+  padding: 20rpx;
+  background-color: greenyellow;
+  border-radius: 20rpx;
+}
